@@ -1,0 +1,9 @@
+{
+    "Keys": ["qmlzoomap"],
+    "Provider": "qmlzoomap",
+    "Version": 100,
+    "Experimental": false,
+    "Features": [
+        "OnlineMappingFeature"
+    ]
+}
